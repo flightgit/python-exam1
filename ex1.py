@@ -23,3 +23,4 @@ while True:
 print(f"{count_numbers}")
 print(f"sum p{sum_positive}")
 print(f"equal{count_equal_pairs}")
+# שאלה 1

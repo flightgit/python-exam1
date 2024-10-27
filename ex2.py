@@ -9,3 +9,4 @@ def is_triangular_array(arr):
 
 arr = list(map(int, input("Enter Numbers: ").split()))
 print(is_triangular_array(arr))
+# שאלה 2
